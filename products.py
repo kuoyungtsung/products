@@ -8,4 +8,4 @@ print(products)
 
 for p in products:
 	print(p)
-print[products(0)]
+print(products[0])
